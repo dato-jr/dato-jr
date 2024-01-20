@@ -1,7 +1,7 @@
 ### Hi there 👋
 - I’m currently working on my repository fire-oracle.
 - I'm currently learning more about Machine Learning, and Data Science.
-- 
+  
 <!--
 **dato-jr/dato-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
