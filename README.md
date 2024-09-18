@@ -1,7 +1,7 @@
 ### Hi there 👋
-- I’m currently working on my repository fire-oracle.
-- I'm currently learning more about Machine Learning, Data Science, and Data Structures.
-- I am have also been having some fun setting up neovim. 
+- Stalling on my repository fire-oracle, but it is an exciting project I look forward to continuing.
+- Currently working on my personal learning growth in the year of 2024 and will be recommencing my projects soon, maybe.
+- I am have been having some fun playing around with the neovim setup on the bright side. 
   
 <!--
 **dato-jr/dato-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
