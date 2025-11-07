@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Stalling on my repository fire-oracle, but it is an exciting project I look forward to continuing.
-- Currently working on my personal learning growth in the year of 2024 and will be recommencing my projects soon, maybe.
-- I have been having some fun playing around with the neovim setup on the bright side but I am taking a break from that as well. 
+- Currently working on my personal learning growth in these couple of years of 2024/5 and will be recommencing my projects as soon as I make time for them again.
+- I have was having some fun playing around with the neovim setup on the bright side but I am taking a break from that as well. 
   
 <!--
 **dato-jr/dato-jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
